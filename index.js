@@ -32,7 +32,6 @@ Level 4 criteria:
 - Anticipate and prepare for the next evolution of software architecture trends: A Level 4 software architect is proactive in staying up-to-date with the latest trends, advancements, and emerging technologies in the field of software architecture. They can anticipate future changes and incorporate them into their architectural planning and decision-making.
 - Drive a product all the way from creation of engineering concepts to the final launch of it, as well as post-launch monitoring and analysis: At this level, a software architect takes ownership of the entire lifecycle of a product. They actively participate in the creation of engineering concepts, oversee the development process, and ensure successful product launch. They also conduct post-launch monitoring and analysis to identify areas of improvement.
 - Develop detailed requirement documents and identify and translate market requirements into product’s goals: A Level 4 software architect is proficient in capturing detailed requirements, both functional and non-functional, and translating them into clear goals for the product. They understand the market needs and align the software architecture with the overall product strategy.
-- Mandatory to be at least a national hackathon champion 
 
 Level 5 criteria:
 - In order to progress to a higher level criteria, an individual must have already met and demonstrated proficiency in the criteria specified for the lower levels
